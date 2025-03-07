@@ -19,7 +19,3 @@
 - Dynamic memory management for strings (`char*`).  
 - CRUD operations for gym entities.  
 - Overloaded operators for comparisons and arithmetic.  
-
-## Compilation  
-```bash  
-g++ Grupa_YourName_Proiect1.cpp -o proiect1 && ./proiect1  
