@@ -30,9 +30,3 @@
 -   Template functions: `bubbleSort()`, `maxim()`.
 -   6+ custom exceptions (e.g., invalid input, out-of-range).
 
-## Compilation
-
-```bash
-g++ Grupa_YourName_Proiect3.cpp -o proiect3 && ./proiect3
-```
-````
