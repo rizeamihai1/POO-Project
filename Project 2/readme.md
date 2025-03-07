@@ -29,8 +29,3 @@ Produse
 -   Dynamic casting for product comparisons.
 -   Quality index calculation via `indiceProdus()`.
 
-## Compilation
-
-```bash
-g++ Grupa_YourName_Proiect2.cpp -o proiect2 && ./proiect2
-```
